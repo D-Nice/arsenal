@@ -1,4 +1,6 @@
-# Nim template repo
+# arsenal
+
+WIP
 
 ## De-template checklist
 - [ ] rename nimble, nimdoc, and src file to repo name (make script?)
